@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Phillip 👋
 
-<!--
-**vtolvr/vtolvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 13-year-old developer from Bergen, Norway 🇳🇴 currently in 8th grade. I have experience in Python, Lua, HTML, JavaScript, and CSS. I'm still learning web development and excited to build my skills!
 
-Here are some ideas to get you started:
+## 🧰 My Tech Stack
+- **Languages:** Python, Lua, JavaScript
+- **Web Technologies:** HTML, CSS
+- **Tools & Platforms:** [e.g., GitHub, VSCode]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Responsive web design
+- JavaScript frameworks (like React or Vue)
+- Backend basics
+
+## 🔭 Projects
+- **[Project 1]**: A simple website to showcase my portfolio
+- **[Project 2]**: A basic game made with Lua
+
+## ✨ Fun Facts
+- I enjoy automating things and making games with Lua.
+- I'm interested in game development and learning new programming languages.
+
+## 📫 Get in Touch
+- You can reach me at: [Your Email or Social Link]
