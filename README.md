@@ -1,6 +1,6 @@
 # Hi, I'm Phillip! 👋
 
-I'm 13 and from Bergen, Norway.
+I'm a 13-year-old male from Bergen, Norway, attending 8th grade at Danielsen Ungdomskole (JR High school).
 
 ## 🧰 Skills
 - **Languages:** Python, Lua, JavaScript
