@@ -15,4 +15,4 @@ I'm a 13-year-old male from Bergen, Norway, attending 8th grade at Danielsen Ung
 - **[View Projects](https://philliphat.com/projects)**
 
 ## 📫 Contact
-- **[Reach Me](https://philliphat.com/contact)**
+- **[phillip@vtolvr.tech](mailto:phillip@vtolvr.tech)**
