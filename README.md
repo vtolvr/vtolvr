@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+i'm+Phillip)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+i'm+Phillip)](https://philliphat.com)
 
 I'm a 13-year-old male from Bergen, Norway.
 
