@@ -1,6 +1,6 @@
-# Hi, I'm Phillip! 👋
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+i'm+Phillip)](https://git.io/typing-svg)
 
-I'm a 13-year-old male from Bergen, Norway, attending 8th grade at Danielsen Ungdomskole (JR High school).
+I'm a 13-year-old male from Bergen, Norway.
 
 ## 🧰 Skills
 - **Languages:** Python, Lua, JavaScript
