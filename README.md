@@ -16,7 +16,7 @@ I’m a 13-year-old from Bergen, Norway.
 - **[messagesneverseen.vtolvr.tech](https://mns.vtolvr.tech)**
 - **[philliphat.com](https://philliphat.com)**
 - **[p1h.me](https://p1h.me)**
-- + some more.
++ some more.
 
 ## 🔭 Projects
 - **[View Projects](https://philliphat.com/projects)**
