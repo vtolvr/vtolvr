@@ -2,5 +2,7 @@
 
 I’m a 13-year-old from Bergen, Norway.
 
+![Statistics](https://github-readme.vtolvr.tech/)
+
 ## 📫 Contact
 - **[phillip@vtolvr.tech](mailto:phillip@vtolvr.tech)**
