@@ -2,11 +2,11 @@
 
 I’m a 13-year-old from Bergen, Norway.
 
-[philliphat.com](https://philliphat.com)
-[messagesneverseen.com](https://messagesneverseen.com)
-[p1h.me](https://p1h.me)
-[vtolvr.tech](https://vtolvr.tech)
-[virtualairline.xyz](https://virtualairline.xyz)
+[philliphat.com](https://philliphat.com)  
+[messagesneverseen.com](https://messagesneverseen.com)  
+[p1h.me](https://p1h.me)  
+[vtolvr.tech](https://vtolvr.tech)  
+[virtualairline.xyz](https://virtualairline.xyz)  
 
 [Github Stats](https://github-readme.vtolvr.tech)
 
