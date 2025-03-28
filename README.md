@@ -1,4 +1,4 @@
-Hi! I'm Phillip, a 13 year old from Norway.
+Hi! I'm Phillip, a 4 year old from Norway.
 
 I'm a:
 - Self-Taught Full-Stack developer.
