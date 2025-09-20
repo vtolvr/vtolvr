@@ -5,6 +5,6 @@ I'm a:
 - Gray/White hat hacker
 - Photographer
 
-![](https://komarev.com/ghpvc/?username=vtolvr)
+![](https://komarev.com/ghpvc/?username=vtolvr&style=for-the-badge&color=000000)
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=vtolvr)](https://philliphat.com)
