@@ -31,10 +31,10 @@ I founded the Norwegian tech startup **Kjern.no** and have contributed to a numb
 ## Selected projects
 > Short descriptions, click the project name for the repo (or live demo.)
 
-### [Messages Never Seen](messagesneverseen.com)
+### [Messages Never Seen](https://messagesneverseen.com)
 A collection of unseen & anonymous messages expressing feelings and thoughts never shared. Explore heartfelt messages and reflections.
 
-### [VolaryDDNS](volaryddns.net)
+### [VolaryDDNS](https://volaryddns.net)
 A small dynamic DNS service built for reliable home-hosting and quick DNS updates.
 
 ### [Kjern](https://kjern.no)
