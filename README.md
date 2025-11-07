@@ -3,7 +3,7 @@
 
 [![Website](https://img.shields.io/badge/website-philliphat.com-black)](https://philliphat.com)
 [![Website](https://img.shields.io/badge/website-kjern.no-black)](https://kjern.no)
-[![LinkedIn](https://img.shields.io/badge/linkedin-Phillip-Rødseth-0077B5)](https://www.linkedin.com/in/phillip-rødseth-755559286)
+[![LinkedIn](https://img.shields.io/badge/linkedin-Phillip-0077B5)](https://www.linkedin.com/in/phillip-rødseth-755559286)
 [![Email](https://img.shields.io/badge/phillip@kjern.no-D14836)](mailto:phillip@kjern.no)
 
 ---
