@@ -1,7 +1,7 @@
 # Phillip Rødseth 👋
 > 14-year-old Norwegian self-taught full-stack dev, gray-hat security researcher, and photographer.
 
-![GitHub Sponsor](https://img.shields.io/github/sponsors/vtolvr?label=Sponsor&logo=GitHub)
+[![GitHub Sponsor](https://img.shields.io/github/sponsors/vtolvr?label=Sponsor&logo=GitHub)](https://github.com/sponsors/vtolvr)
 [![Website](https://img.shields.io/badge/website-philliphat.com-black)](https://philliphat.com)
 [![Website](https://img.shields.io/badge/website-kjern.no-black)](https://kjern.no)
 [![LinkedIn](https://img.shields.io/badge/linkedin-Phillip-0077B5)](https://www.linkedin.com/in/phillip-rødseth-755559286)
