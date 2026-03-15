@@ -1,5 +1,5 @@
 # Phillip Rødseth 👋
-> 14-year-old Norwegian self-taught full-stack dev, gray-hat security researcher, and photographer.
+> 15-year-old Norwegian self-taught full-stack dev, gray-hat security researcher, and photographer.
 
 [![GitHub Sponsor](https://img.shields.io/github/sponsors/vtolvr?label=Sponsor&logo=GitHub)](https://github.com/sponsors/vtolvr)
 [![Website](https://img.shields.io/badge/website-philliphat.com-black)](https://philliphat.com)
@@ -10,7 +10,7 @@
 ---
 
 ## About me
-Hi, I'm Phillip. A 14-year-old from Norway. Self-taught developer and security researcher. I mainly work backend but I do full-stack projects and photography on the side.
+Hi, I'm Phillip. A 15-year-old from Norway. Self-taught developer and security researcher. I mainly work backend but I do full-stack projects and photography on the side.
 I founded the Norwegian tech startup **Kjern.no** and have contributed to a number of web projects and tools listed below.
 
 - 🌱 Currently focused on: backend systems, cloud automation, secure web architectures.
